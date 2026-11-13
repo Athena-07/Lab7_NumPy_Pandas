@@ -1,0 +1,8 @@
+SENSITIVITY REPORT
+Features: ['Feature_137', 'Feature_208', 'Feature_340', 'Feature_474', 'Feature_484']
+Bootstrap Reps: 220
+Largest Change: 1.2963
+Sign Changes: 0
+Rank Changes: 2
+Reproducible: True
+Notes: differences are associations, not causes; CIs containing 0 are unstable.
